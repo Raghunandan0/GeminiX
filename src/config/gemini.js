@@ -1,5 +1,3 @@
-// const apiKey = "AIzaSyBu_L7aw1MGP7bqG-OK2Vt1Q5Td00CeNUA"
-
 
 import {
   GoogleGenerativeAI,
