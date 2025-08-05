@@ -1,4 +1,4 @@
-# 🌌 GeminiX – AI-Powered Conversational Web App using React.js + Gemini API
+# 🤖♊️✨ GeminiX – AI-Powered Conversational Web App using React.js + Gemini API
 
 **GeminiX** is a next-generation, fully responsive AI chatbot interface inspired by the design philosophy of **Google Gemini**. Built with **React.js** and integrated with **Google’s Generative AI (Gemini API)**, GeminiX delivers intelligent, context-aware conversations through a modern, polished user experience.
 
